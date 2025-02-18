@@ -25,7 +25,7 @@ author: Caio da Silva
 ###############################################
 
 navbar-links:
-  Posts: "_posts"
+  # Posts: "_posts"
   # About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
