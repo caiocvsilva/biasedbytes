@@ -24,7 +24,7 @@ author: Caio da Silva
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+# navbar-links:
   # Posts: "_posts"
   # About Me: "aboutme"
   # Resources:
@@ -78,7 +78,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
- mastodon: mastodon.social/@caiocvsilva
+  mastodon: mastodon.social/@caiocvsilva
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
